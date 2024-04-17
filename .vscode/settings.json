@@ -1,0 +1,10 @@
+{
+    "[markdown]": {
+        "editor.rulers": [
+            140
+        ],
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2
+    }
+}
